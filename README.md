@@ -3,6 +3,9 @@
 
 > **"Dreaming of MQM-based high-speed data transmission across all computing units and MQM CPU/GPU/NPU"**
 
+"Transitioning CPU/GPU/NPU architectures from single-bit line processing to multi-dimensional MQM-based data transmission and processing."
+
+(CPU/GPU/NPU 아키텍처를 1비트 라인 처리 방식에서 다차원 MQM 기반 데이터 전송 및 처리 방식으로 전환)
 ---
 
 ### 💡 Core Technology: 3D-Mapping Transfer
