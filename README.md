@@ -36,15 +36,36 @@ A single data symbol is defined by the integration of three physical dimensions:
 
  1channel에 1cycle 당 (n + m ) x phase bit를  보내는 기술... + 발열에 좋은 방법
 
- ; Data transfer Throughput  = [ frequency ( n bits) + amplitude( m bits )] x phase number  
+## Core Formula
 
- Option A:  [ Leading bits → Frequency ]  +  [ Trailing bits → Amplitude ]
- Option B:  [ Leading bits → Amplitude ]  +  [ Trailing bits → Frequency ]
+```
+Data Transfer Throughput = [ Frequency (n bits) + Amplitude (m bits) ] × Phase Number
+```
 
-🔑 Core Formula — Throughput = [Frequency(n) + Amplitude(m)] × Phase 수식 명확화
-💡 Key Point 박스 — 각 섹션마다 핵심 포인트를 > 💡 로 강조
-⚡ 발열 관련 표 — "발열에 좋은 방법" 내용을 표로 시각화
+| Symbol | Description |
+|--------|-------------|
+| `n` | Bits encoded in the **Frequency** dimension |
+| `m` | Bits encoded in the **Amplitude** dimension |
+| `Phase Number` | Number of discrete phase states (e.g., 2, 4, 8, 16 …) |
+
+> **Key Point:** In a single channel, MQM transmits **`(n + m) × Phase Number` bits per cycle** — far exceeding conventional single-dimension encoding schemes.
+
+---
+
+## Designer-Defined Bit Sequence Mapping
+
+The mapping of `n bits` and `m bits` to the **leading** or **trailing** bit sequence is **freely chosen by the system designer**:
+
+| Option | Leading bits | Trailing bits |
+|--------|-------------|---------------|
+| **Option A** | → Frequency (n bits) | → Amplitude (m bits) |
+| **Option B** | → Amplitude (m bits) | → Frequency (n bits) |
+
+> **Key Point:** MQM does **not** mandate a fixed mapping — the designer selects the assignment based on hardware constraints and optimization goals.
+
+
 📜 Prior Art / Patent Waiver — This technology is released as prior art. The author waives patent rights. 굵게 강조
+
 👤 저자 크레딧 표 — Sungtae Park, Hyunuk Pak, EunHwan Park 정리
  
 ;This technology is released as prior art.
