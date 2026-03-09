@@ -68,8 +68,9 @@ The mapping of `n bits` and `m bits` to the **leading** or **trailing** bit sequ
 
 👤 저자 크레딧 표 — Sungtae Park, Hyunuk Pak, EunHwan Park 정리
  
-;This technology is released as prior art.
-;The author waives patent rights.
+This technology is released as prior art.
+
+The author waives patent rights.
 
 
 
