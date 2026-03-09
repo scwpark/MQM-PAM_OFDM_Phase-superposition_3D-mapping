@@ -178,6 +178,13 @@ This algorithm, conceived in the early 1980s and formalized in 2026, is released
 Author: Sungtae Park (scwpark)
 # Date: 2026.3.4 ~
 
+### Key Principles
+- Channel count increase = linear performance gain **without frequency scaling**
+- Expandable via MQM encoding **without additional physical wires**
+- Immediately applicable to **HBM4 (2048 wire)**
+- 🟣 At 4,096 channels (n=8, m=8, p=8), data capacity is comparable to a **21-qubit quantum computer**
+
+![MQM Channel Scaling Table](MQM_table(2026_03_09).jpg)
 ## 🗜️ Compression: Huffman Encoding
 
 MQM pipeline includes Huffman pre-compression before transmission.
