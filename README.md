@@ -143,4 +143,21 @@ This algorithm, conceived in the early 1980s and formalized in 2026, is released
 - HBM4 (2048 wire) 적용 시 즉시 구현 가능
 - 🟣 4096 channel (n=8, m=8, p=8 ) 일 때   데이타량이 21큐비트 양자 컴퓨터 와 유사
 Author: Sungtae Park (scwpark)
-Date: 2026.3.4 ~
+# Date: 2026.3.4 ~
+
+## ☕ Buy Me a Coffee
+
+MQM is free and open-source forever — no patent, no fee.
+
+If MQM helped you in any way, even a single cup of coffee 
+keeps this old doctor-inventor going! 🦋
+
+👉 [Buy Me a Coffee](https://buymeacoffee.com/scwpark)
+
+**Or directly via Shinhan Bank (신한은행):**
+- 예금주: PARK SUNG TAE
+- SWIFT: SHBKKRSE
+
+> "I had this dream in the 1980s.  
+> Forty years later, I'm giving it to the world for free.  
+> A coffee would be nice though." ☕😄
