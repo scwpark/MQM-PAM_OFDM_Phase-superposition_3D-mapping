@@ -1,3 +1,36 @@
+# MQM (Multi-Quantum Mode) Transmission Algorithm
+
+"Big ALU Quantum Jump: MQM-Based Ultra-Fast HBM Transfer with Zero-Heat Architecture"
+
+## 🚀 Overview
+**MQM (Multi-Quantum Mode)** is a revolutionary data transmission and processing architecture that transitions CPU/GPU/NPU systems from single-bit processing to a multi-dimensional **3D-Mapping** paradigm. By simultaneously encoding data into **Frequency, Amplitude, and Phase** dimensions, MQM achieves ultra-high-speed data transfer within a single cycle.
+
+## 📐 Core Technology: 3D-Mapping
+* **Single Symbol = (Frequency, Amplitude, Phase)**
+* **Objective:** Minimizing heat generation (Zero-Heat Architecture) while maximizing throughput in HBM, RAM, and internal CPU/GPU data channels.
+* **Core Formula:** Data Transfer Throughput = [ Frequency (n bits) + Amplitude (m bits) ] × 2^p
+
+## ⚖️ Intellectual Property & Citation Policy
+본 MQM 기술은 전 세계 반도체 및 컴퓨팅 생태계의 발전을 위해 **'선행 기술(Prior Art)'**로서 오픈 소스로 공개되었습니다. 저자(scwpark)는 핵심 알고리즘에 대한 모든 독점적 특허권을 포기합니다. 다만, 기술의 올바른 확산과 지적 정직성을 위해 다음 사항을 의무화합니다.
+
+### [English]
+**Mandatory Citation Policy:**
+1. **Mandatory Citation:** Any third-party patent application, academic paper, or commercial implementation utilizing the MQM algorithm as a foundational technology **must explicitly cite** this original work and provide its corresponding Zenodo DOI as prior art.
+2. **Anti-Monopoly:** No entity may claim exclusive ownership or patent rights over the core MQM 3D-mapping logic itself. Patent claims must be limited to specific, additional implementation methods that do not restrict the public use of the original MQM algorithm.
+
+### [한국어]
+**출처 명기 의무화 정책:**
+1. **출처 명기 의무:** 본 MQM 알고리즘을 기초 기술로 활용하는 제3자의 모든 응용 특허 출원, 논문, 또는 상업적 구현물은 반드시 원천 기술인 **MQM 알고리즘**과 본 문서의 **Zenodo DOI**를 선행 기술로 명시적으로 인용해야 합니다.
+2. **독점 금지:** 그 어떤 개인이나 단체도 MQM 3D 매핑 로직 자체에 대해 독점적 권리를 주장할 수 없습니다. 모든 특허 청구 범위는 원천 기술의 공공적 사용을 제한하지 않는 범위 내에서, 추가적인 독창적 구현 방식에만 국한되어야 합니다.
+
+---
+
+## 👤 Author & Credits
+* **Inventor:** Sungtae Park (scwpark) 
+* **Co-workers:** Hyunuk Pak, EunHwan Park
+* **Community:** [https://cafe.daum.net/scwpark](https://cafe.daum.net/scwpark)
+**Zenodo DOI:**  https://doi.org/10.5281/zenodo.18924211
+
 "MQM Big ALU는 더 이상 속도만을 쫓지 않습니다. 우리는 열(Heat)을 남기지 않는 차가운 연산으로, 데이터 전송의 '양자적 도약(Quantum Jump)'을 실현합니다."
 
 "Big ALU Quantum Jump: MQM-Based Ultra-Fast HBM Transfer with Zero-Heat Architecture"
