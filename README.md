@@ -155,9 +155,9 @@ keeps this old doctor-inventor going! 🦋
 👉 [Buy Me a Coffee](https://buymeacoffee.com/scwpark)
 
 **Or directly via Shinhan Bank (신한은행):**
-- 예금주: PARK SUNG TAE
-- SWIFT: SHBKKRSE
-
+- 예금주: PARK SUNG TAE ( 박성태 )
+- SWIFT: SHBKKRSE ( 신한은행 )
+- Account : 110-623-275173
 > "I had this dream in the 1980s.  
 > Forty years later, I'm giving it to the world for free.  
 > A coffee would be nice though." ☕😄
