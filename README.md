@@ -247,7 +247,7 @@ keeps this old doctor-inventor going! 🦋
 - SWIFT: SHBKKRSE ( 신한은행 )
 - Account : 110-623-275173
   
-*"In the early 2000s, I built a C/C++-based in-memory database using threaded AVL and Red-Black trees. 
+*"In the early 2000s, I built a C/C++-based in-memory database using M-way threaded (AVL & Red-Black) trees + splay tree . 
 * It was taken — by companies, by people — and quietly folded into AI systems and databases without a word.*
 
 *I said nothing. I moved on. I went to medical school.*
