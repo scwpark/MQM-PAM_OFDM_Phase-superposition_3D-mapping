@@ -26,7 +26,7 @@
 ---
 
 ## 👤 Author & Credits
-* **Inventor:** Sungtae Park (scwpark) 
+* **Inventor:** Sungtae Park (scwpark@daum.net, scwpark@naver.com,  inactive( scwpark@hananet.net, scwpark@lge.com ) )
 * **Co-workers:** Hyunuk Pak, EunHwan Park
 * **Community:** [https://cafe.daum.net/scwpark](https://cafe.daum.net/scwpark)
 * **Zenodo DOI(Latest):**  https://doi.org/10.5281/zenodo.18930827
