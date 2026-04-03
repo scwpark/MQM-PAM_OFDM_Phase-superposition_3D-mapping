@@ -1,11 +1,15 @@
 # MQM (Multi-Quantum Mode) wave based ALU(CPU/GPU/NPU) and data transfer algorithms
 
 "Big ALU Quantum Jump: MQM-Based Ultra-Fast HBM Transfer with Low-Heat Architecture"
-
-**AESA radar controls F + A + P simultaneously.
+* MQM (Multi-Quantum Mode) introduces a wave-based ALU architecture — a Post-Von Neumann, next-generation ALU design for CPU, GPU, and NPU systems. ( wave based computing )
+* 
+* MQM synthesizes Frequency(Color), Amplitude(Brightness / Intensity), and Phase(Interference · Diffraction · Polarization) into a unified 3D signal
+* — applicable to every data channel in existence: CPU/GPU/NPU cores, their internal buses, RAM, HBM, Photonic interconnects via Optical media and backbone networks(Optics )."
+  
+**(AESA radar controls F + A + P simultaneously.
 * But never as (F + A) × 2^P.
 * MQM is the first to see it that way.
-* Same physics. New formula. New paradigm.**
+* Same physics. New formula. New paradigm.)**
 
 ## 🚀 Overview
 **MQM (Multi-Quantum Mode)** is a revolutionary data transmission and processing architecture that transitions CPU/GPU/NPU systems from single-bit processing to a multi-dimensional **3D-Mapping** paradigm. By simultaneously encoding data into **Frequency, Amplitude, and Phase** dimensions, MQM achieves ultra-high-speed data transfer within a single cycle.
