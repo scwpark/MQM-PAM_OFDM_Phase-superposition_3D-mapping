@@ -5,6 +5,7 @@ wave based computing
 wave based alu(cpu/NPU/GPU)
 
 "Big ALU Quantum Jump: MQM-Based Ultra-Fast HBM Transfer with Low-Heat Architecture"
+*
 *"MQM synthesizes Frequency(Color), Amplitude(Brightness / Intensity), and Phase(Interference · Diffraction · Polarization) into a unified 3D signal. This approach is applicable across diverse data channels,
 including wave-based ALUs (CPU/GPU/NPU cores), internal buses, memory systems (RAM, HBM), a photonic interconnects over optical media and backbone networks.
 
