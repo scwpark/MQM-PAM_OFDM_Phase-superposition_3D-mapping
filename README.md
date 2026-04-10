@@ -1,16 +1,23 @@
 # MQM (Multi-Quantum Mode) wave based ALU(CPU/GPU/NPU) and data transfer algorithms
 
-wave based computing 
+MQM (Multi-Quantum Mode) introduces a Wave based ALUs architecture — a Post-Von Neumann, next-generation ALU design for CPU, GPU, and NPU systems. ( Wave based computing )
 
-wave based alu(cpu/NPU/GPU)
+"MQM synthesizes Frequency(Color), Amplitude(Brightness / Intensity), and Phase(Interference · Diffraction · Polarization) into a unified 3D signal. This approach is applicable across diverse data channels, including Wave based ALUs/Wave based computing (CPU/GPU/NPU cores), internal buses, memory systems (RAM, HBM), a photonic interconnects over optical media and backbone networks.
+MQM optical communication makes it possible to strip robots, and self-driving cars etc. down to a single lightweight MQM chip — and let the server think for them. When latency collapses to near-zero, 
+intelligence no longer needs to be local. The future of autonomy is not onboard. It's in the network. ( "The future of autonomy is not onboard. It's in the network.")— MQM solves the latency wall that Cloud 
+Robotics couldn't overcome.  ( Employing multiple MQM Core C units may improve system safety and robustness. )
+ 
 
-"Big ALU Quantum Jump: MQM-Based Ultra-Fast HBM Transfer with Low-Heat Architecture"
-*
-*"MQM synthesizes Frequency(Color), Amplitude(Brightness / Intensity), and Phase(Interference · Diffraction · Polarization) into a unified 3D signal. This approach is applicable across diverse data channels,
-including wave-based ALUs (CPU/GPU/NPU cores), internal buses, memory systems (RAM, HBM), a photonic interconnects over optical media and backbone networks.
+This technical note introduces the Multi-Quantum Mode (MQM) Wave based ALUs/Wave based computing(GPU/NPU/CPU), a novel data transmission algorithm designed to maximize throughput by simultaneously
+encoding binary data across three physical dimensions: Frequency (n bits), Amplitude (m bits), and Phase (p bits). By utilizing a 3D-mapping approach,
+the MQM WAVE based computing algorithm achieves a theoretical throughput defined by the core formula:
 
-*MQM optical communication makes it possible to strip robots, and self-driving cars etc. down to a single lightweight MQM chip — and let the server think for them. When latency collapses to 
-near-zero, intelligence no longer needs to be local. The future of autonomy is not onboard. It's in the network. ( "The future of autonomy is not onboard. It's in the network.")— MQM solves the latency wall that Cloud Robotics couldn't overcome. ( Employing multiple MQM Core C units may improve system safety and robustness. )
+ 
+ Data Throughput examples = [ ( n + m bits) x 2^p  ]/cycle 
+ 
+This method effectively optimizes spectral efficiency by exploiting phase-superposition,
+
+offering a robust alternative to conventional PAM-OFDM-phase architectures.
   
 **(AESA radar controls F + A + P simultaneously.
 * But never as (F + A) × 2^P.
